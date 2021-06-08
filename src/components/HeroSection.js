@@ -33,6 +33,10 @@ export default class HeroSection extends React.Component {
                     <div className="section__copy">
                       <p>{_.get(section, 'subtitle', null)}</p>
                     </div>
+                    <p>
+                        {_.get(section, 'title', null)} &
+                        {_.get(section, 'subtitle', null)}
+                    </p>
                     )}
                     {_.get(section, 'actions', null) && (
                     <div className="section__actions btn-group">
