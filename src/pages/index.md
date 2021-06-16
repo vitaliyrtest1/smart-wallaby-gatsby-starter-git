@@ -10,6 +10,12 @@ sections:
       - label: Learn More
         url: 'https://salen.dev'
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
       - label: Contact Us
         url: /contact
         style: secondary
