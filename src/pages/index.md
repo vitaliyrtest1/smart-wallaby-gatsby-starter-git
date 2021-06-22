@@ -36,7 +36,7 @@ sections:
 
           ![](/\_static/app-assets/2.png)
         align: left
-        image: images/feature.svg
+        image: images/3.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
