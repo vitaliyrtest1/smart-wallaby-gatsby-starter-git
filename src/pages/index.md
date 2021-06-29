@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      quis lorem malesuada luctus.C
     actions:
       - label: Learn More
         url: 'https://salen.dev'
