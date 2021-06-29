@@ -29,7 +29,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    title: '1234'
+    title: '123'
   - type: features_section
     title: Features
     features:
