@@ -4,6 +4,7 @@ date: '2020-05-28'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
+  - src/data/categories/category-zgnp1jm39.json
   - src/data/categories/category-ncg43vxcz.json
 tags:
   - Stackbit
