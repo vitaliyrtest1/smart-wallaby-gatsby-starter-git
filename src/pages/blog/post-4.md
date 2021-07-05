@@ -5,6 +5,7 @@ author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
+  - src/data/categories/category-sc9nko6xt.json
 tags:
   - JAMstack
   - Sourcebit
