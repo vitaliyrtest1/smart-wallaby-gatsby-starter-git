@@ -3,6 +3,7 @@ title: Amet Nulla Facilisi Morbi Tempus
 date: '2020-06-02'
 categories:
   - src/data/categories/tutorials.yaml
+  - src/data/categories/category-puyae3mkq.json
 tags:
   - Stackbit
   - Netlify
