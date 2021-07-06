@@ -5,7 +5,6 @@ author: src/data/team/miles-tone.yaml
 categories:
   - src/data/categories/news.yaml
   - src/data/categories/general.yaml
-  - src/data/categories/category-z8rrw0dbh.json
 tags:
   - Jamstack
   - Netlify
