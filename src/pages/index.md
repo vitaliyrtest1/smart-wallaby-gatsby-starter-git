@@ -92,6 +92,12 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
   - type: blog_feed_section
     title: What's New
     show_recent: true
