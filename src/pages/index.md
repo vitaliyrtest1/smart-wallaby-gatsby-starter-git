@@ -49,7 +49,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-          - label: lorem-ipsum123
+          - label: lorem-ipsum1234
             url: '#'
             style: link
             new_window: false
